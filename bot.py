@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8999021234:AAEo3nTjTkgLh1BCZwxrCJ0r82SZZIXPwiM"
+TOKEN = "8999021234:AAFjCt8bSHKiMlkChAtyvohn1eoVqP3CTDw"
 ADMIN_ID = 6994157864  # O'zingizning Telegram ID'ingiz
 
 JSON_FILE = "videos.json"
